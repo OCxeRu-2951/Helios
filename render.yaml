@@ -1,7 +1,0 @@
-services:
-  - type: static
-    name: Helios
-    env: static
-    branch: main
-    plan: free
-    staticPublishPath: /
